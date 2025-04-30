@@ -6,7 +6,6 @@
 
 
 
-
 function enterClicked() {
   const inputAge = document.getElementById('input-age').value
   const inputDay = document.getElementById('input-day').value
